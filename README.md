@@ -1,6 +1,6 @@
 # ¡Hola! 👋  
 
-#### **Soy Benjamín Merlini, un desarrollador Java back-end, transitando el mundo de la programación.   Con un enfoque fresco y decidido, me sumerjo en el diseño y desarrollo de sistemas robustos, especializándose en la arquitectura de microservicios adoptando las últimas tecnologías.**
+#### **Soy Benjamín Merlini, un desarrollador Java backend, transitando en el mundo de la programación.   Con un enfoque fresco y decidido, me sumerjo en el diseño y desarrollo de sistemas robustos, especializándose en la arquitectura de microservicios adoptando las últimas tecnologías.**
 ![banner2](https://imagizer.imageshack.com/img924/6651/KiFMkJ.png)
 ---
 > #### 🤝 ¡Contacta conmigo para coordinar nuevos proyectos o discutir sobre programacion! 
