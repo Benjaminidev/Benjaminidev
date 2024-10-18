@@ -1,4 +1,4 @@
-### ¡Hola bienvenido a mi perfil! 👋  
+### ¡Hola, bienvenido a mi perfil! 👋  
 
 ### 🚀 Soy Project Manager y programador Backend en Java, especializado en el desarrollo de microservicios utilizando Spring Framework. Mi objetivo es construir sistemas eficientes y escalables que cumplan con los más altos estándares de calidad.
 
